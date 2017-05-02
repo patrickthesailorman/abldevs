@@ -1,36 +1,47 @@
-## Welcome to Abldevs!
+# Welcome to Abldevs!
 
-You can use the [editor on GitHub](https://github.com/patrickthesailorman/abldevs/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+We're glad you're here! This is the place to be. Whether you are an experienced developer or just getting started, you should know that a good developer is always developing...
+Here we do just that. We are constantly building things to keep our skills sharp, updating content as soon as possible to stay on the cutting edge, continuing our education and **always be developing.**
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Abldevs was born of a need to keep the momentum going...
 
-### Markdown
+You can see the code or contribute to Abldevs [repo on GitHub](https://github.com/patrickthesailorman/abldevs)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Success Stories
 
-```markdown
-Syntax highlighted code block
+  "Having just finished a Web Developer Bootcamp, I was looking for a place to continue learning, keep the skills I had learned and gain experience developing. I found it all at Abldevs!"
+                            - Patrick
+### Reasons to Join
 
-# Header 1
-## Header 2
-### Header 3
+  - As a member of abldevs you have access to the tools that will maximize the growth and development of your professional skills as a developer.
 
-- Bulleted
-- List
+  - You will be part of a community of developers. Learning from those more experienced than you, And Developing your skills as you help others to learn and develop their skills.
 
-1. Numbered
-2. List
+  - Technology is constantly advancing and changing. You need to _USE_ those skills to keep them. This is the place to gain experience and keep your momentum.
 
-**Bold** and _Italic_ and `Code` text
+### Technology you work with
 
-[Link](url) and ![Image](src)
-```
+  - We keep active with current technology, constantly updating with new technology and keep access to the older stuff too.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Resources
 
-### Jekyll Themes
+  - [Codeshare.io](https://codeshare.io/)
+  - [Codewars](https://www.codewars.com)
+  - [Stack Overflow](https://stackoverflow.com/)
+  -
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/patrickthesailorman/abldevs/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Projects/Portfolio examples
+
+ - Visit our alumni pages
+ - Featured projects
+ - Contribute to open source
+
+### Community
+
+  - Our fast growing community is a great resource. Join us in the Forum.
+  - Keep Yourself Accountable
+  - Measure your growth and development with your peers
+
 
 ### Support or Contact
 
